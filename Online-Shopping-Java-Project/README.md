@@ -70,7 +70,7 @@ An e-commerce web application built with a Spring Boot backend and a Next.js fro
 1. Clone the repository and navigate to the backend folder:
 
     ```bash
-    git clone https://github.com/INFINITYASH3699/Online-Shopping-Java-Project.git
+    git clone https://github.com/Truptipawar2002/Online-Shopping-Java-Project.git
     cd online_shopping_java_project/online_shopping
     ```
 
@@ -162,4 +162,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - **Name**: Trupti Pawar 
 - **Email**: pawartrupti2002@gmail.com
-- **GitHub**: [https://github.com/INFINITYASH3699](https://github.com/INFINITYASH3699)
+- **GitHub**: [https://github.com/Truptipawar2002](https://github.com/Truptipawar2002)
