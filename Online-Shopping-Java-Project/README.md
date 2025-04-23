@@ -160,6 +160,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🙋‍♂ Author
 
-- **Name**: Yash Hulle
-- **Email**: yash.hulle3699@gmail.com
+- **Name**: Trupti Pawar 
+- **Email**: pawartrupti2002@gmail.com
 - **GitHub**: [https://github.com/INFINITYASH3699](https://github.com/INFINITYASH3699)
